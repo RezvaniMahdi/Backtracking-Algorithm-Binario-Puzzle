@@ -7,4 +7,4 @@ Binairo is played on a rectangular grid. Some cells start out filled with black 
 2. More than two circles of the same color can't be adjacent. 
 3. Each row and column is unique.
 
-the goal of this project is to solve Binario-Puzzle with backtracking algorithm (CSP) .
+the goal of this project is to solve Binario-Puzzle with backtracking algorithm that include forward checking and mrv and lcv and ac3 (CSP) .
